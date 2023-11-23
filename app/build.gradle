@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.akelius.university.university_reporting_core_library'
+    namespace 'de.akelius.university.university_reporting_core_library'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.akelius.university.university_reporting_core_library"
+        applicationId "de.akelius.university.university_reporting_core_library"
         minSdk 26
         targetSdk 33
         versionCode 1
