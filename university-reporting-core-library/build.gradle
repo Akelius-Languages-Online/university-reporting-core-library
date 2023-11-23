@@ -71,14 +71,6 @@ dependencies {
 
 publishing {
     publications {
-        /*maven(MavenPublication) {
-            groupId = 'com.github.Akelius-Languages-Online'
-            artifactId = 'university-reporting-core-library'
-            version = "0.2-alpha"
-            pom {
-                description = 'pre release'
-            }
-        }*/
         release(MavenPublication) {
             groupId = 'com.github.Akelius-Languages-Online'
             artifactId = 'university-reporting-core-library'
